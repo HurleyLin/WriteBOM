@@ -5,8 +5,8 @@
 !*.sln
 !*.suo
 
-!WriteBom/obj/
-!WriteBom/Properties/
+!/WriteBom/obj/
+!/WriteBom/Properties/
 !WriteBom/*.cs
 !WriteBom/*.dll
 !WriteBom/*.res

@@ -1,0 +1,17 @@
+F:\工厂\C#工具\四楼\WriteBom\WriteBom\bin\Release\WriteBom.exe
+F:\工厂\C#工具\四楼\WriteBom\WriteBom\bin\Release\WriteBom.pdb
+F:\工厂\C#工具\四楼\WriteBom\WriteBom\obj\x86\Release\WriteBom.Form1.resources
+F:\工厂\C#工具\四楼\WriteBom\WriteBom\obj\x86\Release\WriteBom.Properties.Resources.resources
+F:\工厂\C#工具\四楼\WriteBom\WriteBom\obj\x86\Release\WriteBom.csproj.GenerateResource.Cache
+F:\工厂\C#工具\四楼\WriteBom\WriteBom\obj\x86\Release\WriteBom.exe
+F:\工厂\C#工具\四楼\WriteBom\WriteBom\obj\x86\Release\WriteBom.pdb
+F:\MES\C#工具\四楼\WriteBom\WriteBom\obj\x86\Release\WriteBom.exe
+F:\MES\C#工具\四楼\WriteBom\WriteBom\obj\x86\Release\WriteBom.pdb
+C:\Users\Administrator\Desktop\WriteBom\WriteBom\obj\x86\Release\WriteBom.exe
+C:\Users\Administrator\Desktop\WriteBom\WriteBom\obj\x86\Release\WriteBom.pdb
+C:\Users\Administrator\Desktop\WriteBom\WriteBom\bin\Release\WriteBom.exe
+C:\Users\Administrator\Desktop\WriteBom\WriteBom\bin\Release\WriteBom.pdb
+C:\Users\Administrator\Desktop\WriteBom\WriteBom\obj\x86\Release\WriteBom.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WriteBom\WriteBom\obj\x86\Release\WriteBom.Form1.resources
+C:\Users\Administrator\Desktop\WriteBom\WriteBom\obj\x86\Release\WriteBom.Properties.Resources.resources
+C:\Users\Administrator\Desktop\WriteBom\WriteBom\obj\x86\Release\WriteBom.csproj.GenerateResource.Cache
